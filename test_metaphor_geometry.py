@@ -1,4 +1,4 @@
-import pytest
+
 from metaphor_geometry import ShapeFactory, Rectangle, Square
 
 def test_rectangle_area():
